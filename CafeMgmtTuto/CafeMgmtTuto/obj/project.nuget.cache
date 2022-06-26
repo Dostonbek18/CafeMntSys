@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "5o0nsgYmlrwjFCoF14peOk9K4SAtJqrO27i7wL7OtdlM20KBaNYwuFLGZDwwJ1XmqxcmMRMWH0Df5FOtC0M4EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TopCoderUZ\\Desktop\\CafeMntSys\\CafeMgmtTuto\\CafeMgmtTuto\\CafeMgmtTuto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TopCoderUZ\\.nuget\\packages\\zeroit.framework.lollipopcontrols\\1.0.0\\zeroit.framework.lollipopcontrols.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Zeroit.Framework.LollipopControls 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Zeroit.Framework.LollipopControls",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
